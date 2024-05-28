@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Tugas6 Praktikum PBK",
+      "content": "Integrasi Dengan API"
+    },
+    {
+      "title": "Praktikum DAA",
+      "content": "Algoritma Gredy",
+      "id": "2"
+    },
+    {
+      "title": "Praktikum PBO",
+      "content": "Enkapulasi",
+      "id": "3"
+    }
+  ]
+}
